@@ -10,7 +10,7 @@ function resolve(dir) {
   return path.join(__dirname, dir)
 }
 
-const name = defaultSettings.title || '老省了-管理平台'
+const name = defaultSettings.title || '管理平台'
 
 // 设置默认端口
 // 如果希望本地预览时修改端口可以使用以下命令

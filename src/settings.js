@@ -1,3 +1,3 @@
 module.exports = {
-  title: '老省了-管理平台'
+  title: '管理平台'
 }

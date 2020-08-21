@@ -14,7 +14,7 @@
               路由
             </el-dropdown-item>
           </router-link>
-          <a target="_blank" href="https://github.com/qfdmy/qfdmy-dashboard">
+          <a target="_blank" href="https://github.com/smilejt/dashboard">
             <el-dropdown-item>外链</el-dropdown-item>
           </a>
           <el-dropdown-item divided @click.native="logout">
